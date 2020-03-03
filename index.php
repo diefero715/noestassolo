@@ -127,7 +127,7 @@
 
                 <div class="col-lg mt-3 mb-2 my-lg-0">
 
-                    <a target="_blank" href=""><img class="d-block mx-auto" src="static/images/agenda.jpg" title="Agenda" width="90%"alt="agenda de imagen"></a>
+                    <a target="_blank" href="static/images/agenda.jpg"><img class="d-block mx-auto" src="static/images/agenda.jpg" title="Agenda" width="90%"alt="agenda de imagen"></a>
 
                 </div>
 

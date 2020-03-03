@@ -53,7 +53,8 @@
                         aria-labelledby="navbarDropdownMenuUser">
                         <a class="dropdown-item" href="perfil.php">Mi perfil</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item " href="nota.php">Nueva Nota</a>
+                        <a class="dropdown-item button" data-toggle="modal" data-target=".bd-example-modal-lg"
+                            href="nota.php">Nueva Nota</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="index.php">Cerrar sesión</a>
                     </div>
@@ -61,6 +62,8 @@
             </div>
         </div>
     </nav>
+
+    
 
     <div class="container">
 

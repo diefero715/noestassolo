@@ -1,3 +1,2 @@
 # noestassolo
 
-# Update inicio.php
